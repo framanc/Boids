@@ -1,1 +1,1 @@
-Simulazione interattiva del comportamento di boids
+Interactive simulation of boids behavior based on Craig Reynolds algorithm
