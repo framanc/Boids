@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.dir/main.cpp.o -c /home/francescam/Progetto_feb26/main.cpp",
+  "file": "/home/francescam/Progetto_feb26/main.cpp",
+  "output": "CMakeFiles/progetto.dir/main.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.dir/Fish.cpp.o -c /home/francescam/Progetto_feb26/Fish.cpp",
+  "file": "/home/francescam/Progetto_feb26/Fish.cpp",
+  "output": "CMakeFiles/progetto.dir/Fish.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.dir/Predator.cpp.o -c /home/francescam/Progetto_feb26/Predator.cpp",
+  "file": "/home/francescam/Progetto_feb26/Predator.cpp",
+  "output": "CMakeFiles/progetto.dir/Predator.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.dir/Flock.cpp.o -c /home/francescam/Progetto_feb26/Flock.cpp",
+  "file": "/home/francescam/Progetto_feb26/Flock.cpp",
+  "output": "CMakeFiles/progetto.dir/Flock.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.dir/Vector.cpp.o -c /home/francescam/Progetto_feb26/Vector.cpp",
+  "file": "/home/francescam/Progetto_feb26/Vector.cpp",
+  "output": "CMakeFiles/progetto.dir/Vector.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.dir/Boid.cpp.o -c /home/francescam/Progetto_feb26/Boid.cpp",
+  "file": "/home/francescam/Progetto_feb26/Boid.cpp",
+  "output": "CMakeFiles/progetto.dir/Boid.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.t.dir/Test.cpp.o -c /home/francescam/Progetto_feb26/Test.cpp",
+  "file": "/home/francescam/Progetto_feb26/Test.cpp",
+  "output": "CMakeFiles/progetto.t.dir/Test.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.t.dir/Fish.cpp.o -c /home/francescam/Progetto_feb26/Fish.cpp",
+  "file": "/home/francescam/Progetto_feb26/Fish.cpp",
+  "output": "CMakeFiles/progetto.t.dir/Fish.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.t.dir/Predator.cpp.o -c /home/francescam/Progetto_feb26/Predator.cpp",
+  "file": "/home/francescam/Progetto_feb26/Predator.cpp",
+  "output": "CMakeFiles/progetto.t.dir/Predator.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.t.dir/Flock.cpp.o -c /home/francescam/Progetto_feb26/Flock.cpp",
+  "file": "/home/francescam/Progetto_feb26/Flock.cpp",
+  "output": "CMakeFiles/progetto.t.dir/Flock.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.t.dir/Vector.cpp.o -c /home/francescam/Progetto_feb26/Vector.cpp",
+  "file": "/home/francescam/Progetto_feb26/Vector.cpp",
+  "output": "CMakeFiles/progetto.t.dir/Vector.cpp.o"
+},
+{
+  "directory": "/home/francescam/Progetto_feb26/build",
+  "command": "/usr/bin/c++ -DTGUI_DYNAMIC   -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -Wimplicit-fallthrough -Wextra-semi -Wold-style-cast -fno-omit-frame-pointer -D_GLIBCXX_ASSERTIONS -D_GLIBCXX_SANITIZE_STD_ALLOCATOR -std=c++20 -o CMakeFiles/progetto.t.dir/Boid.cpp.o -c /home/francescam/Progetto_feb26/Boid.cpp",
+  "file": "/home/francescam/Progetto_feb26/Boid.cpp",
+  "output": "CMakeFiles/progetto.t.dir/Boid.cpp.o"
+}
+]
